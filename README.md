@@ -65,7 +65,7 @@ If you or someone you know is in distress, please reach out for immediate help:
 
 ### Chat Interface
 ![Chat Interface](ss1.png)
-
+![Chat Interface](ss2.png)
 
 </div>
 
