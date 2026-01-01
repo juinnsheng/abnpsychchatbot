@@ -49,7 +49,7 @@ If you or someone you know is in distress, please reach out for immediate help:
 |--------------|---------|-----------------|
 | **Befrienders KL** | [Visit Website](https://www.befrienders.org.my/) | 24/7 |
 | **Talian HEAL** | 15555 | 24/7 |
-| **Shalom Careline** | 03-2723 7272 | Mon-Fri: 9am-5pm |
+| **Shalom Careline** | 03-2723 7272 |  10.00am to 1.00pm & 7.00pm to 11.00pm (Daily)  |
 | **Mitra Line (Thang Hsiang Temple)** | 03-7981 5301 / 03-7981 5300 | Daily: 7pm-10pm |
 | **Lifeline Association Malaysia** | 03-4265 7995 | Mon-Fri: 7:30pm-10pm<br>Sun: 2pm-5pm |
 | **Buddhist Gem Fellowship (BGF)** | 011-5994 4384 / 011-2528 9610 | Mon-Fri: 7pm-10pm |
