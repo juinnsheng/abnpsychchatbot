@@ -1,5 +1,3 @@
-# abnpsychchatbot
-
 # Dymphna Chatbot - Understanding Mental Health Together
 
 <div align="center">
