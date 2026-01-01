@@ -1,8 +1,8 @@
-# Dymphna Chatbot - Understanding Mental Health Together
+# Magdalene Chatbot - Understanding Mental Health Together
 
 <div align="center">
 
-![Dymphna Chatbot Demo](Video.gif)
+![Magdalene Chatbot Demo](Video.gif)
 
 *Your compassionate companion for understanding mental health*
 
@@ -16,7 +16,7 @@
 
 ## 📖 Introduction
 
-**Dymphna Chatbot** is an educational mental health companion designed to help caregivers, family members, friends, and community members better understand people living with mental health disorders. This chatbot aims to reduce stigma and foster compassion in our communities.
+**Magdalene Chatbot** is an educational mental health companion designed to help caregivers, family members, friends, and community members better understand people living with mental health disorders. This chatbot aims to reduce stigma and foster compassion in our communities.
 
 ### 🎯 Purpose
 
@@ -31,7 +31,7 @@ This tool serves to:
 
 > **THIS CHATBOT IS NOT FOR DIAGNOSIS OR TREATMENT**
 > 
-> Dymphna Chatbot is an **educational tool only** and should **NEVER** replace professional mental health care. It is designed for learning and understanding, not for:
+> Magdalene Chatbot is an **educational tool only** and should **NEVER** replace professional mental health care. It is designed for learning and understanding, not for:
 > - Diagnosing mental health conditions
 > - Providing treatment or therapy
 > - Offering medical advice
