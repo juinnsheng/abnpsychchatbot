@@ -1,8 +1,8 @@
-# Dymphna Chatbot - Understanding Mental Health Together
+# Stigma Reduction Chatbot - Understanding Mental Health Together
 
 <div align="center">
 
-![Magdalene Chatbot Demo](Video.gif)
+![Chatbot Demo](Video.gif)
 
 *Your compassionate companion for understanding mental health*
 
@@ -16,7 +16,7 @@
 
 ## 📖 Introduction
 
-**Dymphna Chatbot** is an educational mental health companion designed to help caregivers, family members, friends, and community members better understand people living with mental health disorders. This chatbot aims to reduce stigma and foster compassion in our communities.
+**Stigma Reduction Chatbot** is an educational mental health companion designed to help caregivers, family members, friends, and community members better understand people living with mental health disorders. This chatbot aims to reduce stigma and foster compassion in our communities.
 
 ### 🎯 Purpose
 
@@ -31,7 +31,7 @@ This tool serves to:
 
 > **THIS CHATBOT IS NOT FOR DIAGNOSIS OR TREATMENT**
 > 
-> Dymphna Chatbot is an **educational tool only** and should **NEVER** replace professional mental health care. It is designed for learning and understanding, not for:
+> Stigma Reduction Chatbot is an **educational tool only** and should **NEVER** replace professional mental health care. It is designed for learning and understanding, not for:
 > - Diagnosing mental health conditions
 > - Providing treatment or therapy
 > - Offering medical advice
@@ -162,7 +162,7 @@ This project is licensed under the Apache 2.0 License - see the LICENSE file for
 
 Through understanding comes compassion. Through compassion comes support. Through support comes healing.
 
-Dymphna Chatbot is our small contribution to creating a more understanding and supportive world for everyone affected by mental health challenges.
+Stigma Reduction Chatbot is our small contribution to creating a more understanding and supportive world for everyone affected by mental health challenges.
 
 ---
 
@@ -176,7 +176,5 @@ Dymphna Chatbot is our small contribution to creating a more understanding and s
 ---
 
 <div align="center">
-
-**Made with 💚 for a kinder, more compassionate world**
 
 </div>
