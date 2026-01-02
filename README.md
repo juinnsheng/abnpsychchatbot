@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Chatbot Demo](Video.gif)
 
 *Your compassionate companion for understanding mental health*
 
